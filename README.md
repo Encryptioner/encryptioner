@@ -179,3 +179,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=encryptioner&theme=onedark)](https://github.com/encryptioner/github-profile-trophy)
 
+
+<!-- 
+TODO: 
+1. Add redis
+2. Change name to Mursalin Ankur
+ -->
