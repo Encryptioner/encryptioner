@@ -39,13 +39,13 @@
 
 I am a Lead _Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
 
-- 🛠 I have 5+ years of industry expertise in TypeScript, NodeJS, MongoDB, VueJS, TailwindCSS, Firebase, Flutter, Docker & AWS
+- 🛠 I have 5+ years of industry expertise in _TypeScript_, _NodeJS_, _MongoDB_, _VueJS_, _TailwindCSS_, _Firebase_, _Flutter_, _Docker_ & _AWS_
 - 🔭 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 100K+ users
-- ✨ I am also enthusiastic practitioner of DevOps.
+- ✨ I am also enthusiastic practitioner of _DevOps_.
 - 🌱 Exploring technical fields related to computer science and problem solving.
 - 👯 I’m looking to collaborate on open source projects and custom solution for employer.
 - 🤔 I focus on friendly environment, challenging tasks, learning & leading opportunity, career growth and mental inspiration.
-- ⚡ In my free time, I solve competitive programming problems, learn new tech, read books & articles, do traveling & photograpy.
+- ⚡ In my free time, I solve competitive programming problems, learn new tech, read books & articles, write blogs, do traveling & photograpy.
 - 📫 How to reach [me](https://encryptioner.github.io) : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mursalin-ankur) [![Facebook Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mir.ankur)
 
 ---
@@ -55,7 +55,7 @@ I am a Lead _Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 
 #### :point_right: &nbsp;Language:
 
-_Typescript_, JavaScript_, _C/C+_+, _Python, _Go_, _Dart_, Solidity_, _Java, _PHP_
+_Typescript_, _JavaScript_, _C/C++, _Python, _Go_, _Dart_, Solidity_, _Java_, _PHP_
 
 #### :point_right: &nbsp;Backend:
 
