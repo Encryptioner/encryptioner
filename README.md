@@ -55,7 +55,7 @@ I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 
 #### :point_right: &nbsp;Language:
 
-_Typescript_, _JavaScript_, _C/C++, _Python, _Go_, _Dart_, Solidity_, _Java_, _PHP_
+_Typescript_, _JavaScript_, _C/C++_, _Python, _Go_, _Dart_, _Solidity_, _Java_, _PHP_
 
 #### :point_right: &nbsp;Backend:
 
