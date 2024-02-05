@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  <a href="https://encryptioner.github.io">
+    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  </a>
 </p>
 
 <div id="badges" align="center">
@@ -16,7 +18,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=encryptioner&style=flat-square&color=blue" alt="Profile View"/>
+  <a href="https://encryptioner.github.io">
+    <img src="https://komarev.com/ghpvc/?username=encryptioner&style=flat-square&color=blue" alt="Profile View"/>
+  </a>
 </p>
 
 <p align="center">
@@ -26,7 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+  <a href="https://encryptioner.github.io">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+  </a>
 </p>
 
 ### :man_technologist: &nbsp;About Me :
