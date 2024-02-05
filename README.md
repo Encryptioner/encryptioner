@@ -49,46 +49,46 @@ I am a Lead _Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 - 📫 How to reach [me](https://encryptioner.github.io) : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mursalin-ankur) [![Facebook Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mir.ankur)
 
 ---
-
+_
 
 
 ### 🛠 &nbsp;Tech Stack :
 
 #### :point_right: &nbsp;Language:
 
-Typescript, JavaScript, C/C++, Python, Go, Dart, Solidity, Java, PHP
+_Typescript_, JavaScript_, _C/C+_+, _Python, _Go_, _Dart_, Solidity_, _Java, _PHP_
 
 #### :point_right: &nbsp;Backend:
 
-NodeJS, NestJSk, ExpressJSk, SocketIO, Handlebars, Tensorflow, Flask, Django
+_NodeJS_, _NestJS_, _ExpressJS_, _SocketIO_, _Handlebars_, _Tensorflow_, _Flask_, _Django_
 
 #### :point_right: &nbsp;Frontend:
 
-VueJS (2 & 3), BackboneJ, Tailwind CSS, Vuetify, WebRTC, Bootstrap, jQuery, React, Material UI, CSS, HTML, Webpack, React JS, Vite, Bower, Babel, i18n
+_VueJS (2 & 3)_, _BackboneJS_, _Tailwind CSS_, _Vuetify_, _WebRTC_, _Bootstrap_, _jQuery_, _React_, _Material UI_, _CSS_, _HTML_, _Webpack_, _React JS_, _Vite_, _Bower_, _Babel_, _i18n_
 
 #### :point_right: &nbsp;Mobile Apps:
 
-Flutter, React Native, Java (Android), Firebase, App Store, Play Store, Android, iOS, Push Notification
+_Flutter_, _React Native_, _Java (Android)_, _Firebase_, _App Store_, _Play Store_, _Android_, _iOS_, _Push Notification_
 
 #### :point_right: &nbsp;Databases:
 
-MongoDB, Redis, SQLite, MySQL
+_MongoDB_, _Redis_, _SQLite_, _MySQL_
 
 #### :point_right: &nbsp;Tools:
 
-Agile (Scrum), MVC, Git, pnpm, Yarn, npm, ESLint, Figma, Canva, Slack, Postman, Grunt, Jupyter, Latex, VScode, Matlab
+_Agile (Scrum)_, _MVC_, _Git_, _pnpm_, _Yarn_, _npm_, _ESLint_, _Figma_, _Canva_, _Slack_, _Postman_, _Grunt_, _Jupyter_, _Latex_, _VScode_, _Matlab_
 
 #### :point_right: &nbsp;CI/CD:
 
-AWS, Heroku, Render, Jenkins, Nginx, Jira, Trello, Bitbucket, GitHub, Bash, SSH
+_AWS_, _Heroku_, _Render_, _Jenkins_, _Nginx_, _Jira_, _Trello_, _Bitbucket_, _GitHub_, _Bash_, _SSH_
 
 #### :point_right: &nbsp;Environment:
 
-Docker, Unix
+_Docker_, _Unix_
 
 #### :point_right: &nbsp;Testing:
 
-Jest, Mocha
+_Jest_, _Mocha_
 
 
 ---
