@@ -37,7 +37,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Lead _Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
+I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
 
 - 🛠 I have 5+ years of industry expertise in _TypeScript_, _NodeJS_, _MongoDB_, _VueJS_, _TailwindCSS_, _Firebase_, _Flutter_, _Docker_ & _AWS_
 - 🔭 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 100K+ users
