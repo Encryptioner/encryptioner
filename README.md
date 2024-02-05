@@ -1,4 +1,9 @@
-<p align="center"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/></p>
+<p align="center">
+  <a href="https://encryptioner.github.io">
+    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  </a>
+</p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mir-mursalin-ankur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,14 +27,14 @@
 
 I am a Lead _Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
 
-- 🔭 I have 5+ years of industry expertise in TypeScript, NodeJS, MongoDB, VueJS, TailwindCSS, Firebase, Flutter & AWS
-- 🛠 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 100K+ users
+- 🛠 I have 5+ years of industry expertise in TypeScript, NodeJS, MongoDB, VueJS, TailwindCSS, Firebase, Flutter, Docker & AWS
+- 🔭 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 100K+ users
 - ✨ I am also enthusiastic practitioner of DevOps.
 - 🌱 Exploring technical fields related to computer science and problem solving.
 - 👯 I’m looking to collaborate on open source projects and custom solution for employer.
 - 🤔 I focus on friendly environment, challenging tasks, learning & leading opportunity, career growth and mental inspiration.
 - ⚡ In my free time, I solve competitive programming problems, learn new tech, read books & articles, do traveling & photograpy.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mursalin-ankur) [![Facebook Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mir.ankur)
+- 📫 How to reach [me](https://encryptioner.github.io): &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mursalin-ankur) [![Facebook Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mir.ankur)
 
 ---
 
