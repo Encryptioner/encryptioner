@@ -18,11 +18,12 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
+I am a Lead _Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
+- 🔭 I have 5+ years of industry expertise in TypeScript, NodeJS, MongoDB, VueJS, TailwindCSS, Firebase, Flutter & AWS
+- 🛠 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 100K+ users
 - ✨ I am also enthusiastic practitioner of DevOps.
 - 🌱 Exploring technical fields related to computer science and problem solving.
 - 👯 I’m looking to collaborate on open source projects and custom solution for employer.
@@ -40,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>Typesc&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="./assets/c-plus-plus.png" title="C/C++" alt="C/C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
