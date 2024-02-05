@@ -49,7 +49,6 @@ I am a Lead _Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 - 📫 How to reach [me](https://encryptioner.github.io) : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mursalin-ankur) [![Facebook Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mir.ankur)
 
 ---
-_
 
 
 ### 🛠 &nbsp;Tech Stack :
@@ -89,6 +88,7 @@ _Docker_, _Unix_
 #### :point_right: &nbsp;Testing:
 
 _Jest_, _Mocha_
+
 
 
 ---
