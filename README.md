@@ -11,8 +11,8 @@
   <a href="https://encryptioner.github.io">
     <img src="https://img.shields.io/badge/Website-black?logo=GitHub&logoColor=white&style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://twitter.com/AnkurMursalin">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/AnkurMursalin">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
 
@@ -55,15 +55,15 @@ I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 
 #### :point_right: &nbsp;Language:
 
-_Typescript_, _JavaScript_, _C/C++_, _Python_, _Go_, _Dart_, _Solidity_, _Java_, _PHP_
+_Typescript_, _JavaScript_, _C/C++_, _Python_, _Go_, _Dart_, _Java_, _PHP_
 
 #### :point_right: &nbsp;Backend:
 
-_NodeJS_, _NestJS_, _ExpressJS_, _SocketIO_, _Handlebars_, _Tensorflow_, _Flask_, _Django_
+_NodeJS_, _ExpressJS_, _WebSocket_, _Logger_, _NestJS_, _Tensorflow_, _Flask_, _Django_, _Laravel_
 
 #### :point_right: &nbsp;Frontend:
 
-_VueJS (2 & 3)_, _BackboneJS_, _Tailwind CSS_, _Vuetify_, _WebRTC_, _Bootstrap_, _jQuery_, _React_, _Material UI_, _CSS_, _HTML_, _Webpack_, _React JS_, _Vite_, _Bower_, _Babel_, _i18n_
+_VueJS (2 & 3)_, _BackboneJS_, _React JS_, _Tailwind CSS_, _Vuetify_, _Bootstrap_, _jQuery_, _WebRTC_, _Webpack_, _Vite_, _Material UI_, _CSS_, _HTML_, _Bower_, _Babel_, _i18n_
 
 #### :point_right: &nbsp;Mobile Apps:
 
@@ -71,15 +71,15 @@ _Flutter_, _React Native_, _Java (Android)_, _Firebase_, _App Store_, _Play Stor
 
 #### :point_right: &nbsp;Databases:
 
-_MongoDB_, _Redis_, _SQLite_, _MySQL_
+_MongoDB_, _MySQL_, _PostgreSQL_, _SQLite_, _Redis_, _Blockchain_
 
 #### :point_right: &nbsp;Tools:
 
-_Agile (Scrum)_, _MVC_, _Git_, _pnpm_, _Yarn_, _npm_, _ESLint_, _Figma_, _Canva_, _Slack_, _Postman_, _Grunt_, _Jupyter_, _Latex_, _VScode_, _Matlab_
+_Agile (Scrum)_, _Git_, _pnpm_, _Yarn_, _npm_, _ESLint_, _Figma_, _Canva_, _Slack_, _Postman_, _Grunt_, _Jupyter_, _Latex_, _VScode_, _Matlab_
 
 #### :point_right: &nbsp;CI/CD:
 
-_AWS_, _Heroku_, _Render_, _Jenkins_, _Nginx_, _Jira_, _Trello_, _Bitbucket_, _GitHub_, _Bash_, _SSH_
+_AWS_, _Heroku_, _Render_, _Jenkins_, _Nginx_, _Jira_, _Trello_, _Bitbucket_, _GitHub_, _Bash_, _SSH_, _K8s_
 
 #### :point_right: &nbsp;Environment:
 
