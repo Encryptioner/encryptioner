@@ -40,11 +40,12 @@
 I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
 
 - 🛠 I have 5+ years of industry expertise in _TypeScript_, _NodeJS_, _MongoDB_, _VueJS_, _TailwindCSS_, _Firebase_, _Flutter_, _Docker_ & _AWS_
-- 🔭 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 100K+ users
+- 🔭 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 500K+ users
+- 💪 Professionally, I lead on multiple projects to deliver premium solutions on time.
 - ✨ I am also enthusiastic practitioner of _DevOps_.
 - 🌱 Exploring technical fields related to computer science and problem solving.
 - 👯 I’m looking to collaborate on open source projects and custom solution for employer.
-- 🤔 I focus on friendly environment, challenging tasks, learning & leading opportunity, career growth and mental inspiration.
+- 🤔 I focus on friendly environment, co-operative team, challenging tasks, learning & leading opportunity, career growth and mental inspiration.
 - ⚡ In my free time, I solve competitive programming problems, learn new tech, read books & articles, write blogs, do traveling & photograpy.
 - 📫 How to reach [me](https://encryptioner.github.io) : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-mursalin-ankur) [![Facebook Badge](https://img.shields.io/badge/-ankur-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mir.ankur)
 
@@ -53,39 +54,39 @@ I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 
 ### 🛠 &nbsp;Tech Stack :
 
-#### :point_right: &nbsp;Language:
+#### 👉 &nbsp;Language:
 
 _Typescript_, _JavaScript_, _C/C++_, _Python_, _Go_, _Dart_, _Java_, _PHP_
 
-#### :point_right: &nbsp;Backend:
+#### 👉 &nbsp;Backend:
 
 _NodeJS_, _ExpressJS_, _WebSocket_, _Logger_, _NestJS_, _Tensorflow_, _Flask_, _Django_, _Laravel_
 
-#### :point_right: &nbsp;Frontend:
+#### 👉 &nbsp;Frontend:
 
 _VueJS (2 & 3)_, _BackboneJS_, _React JS_, _Tailwind CSS_, _Vuetify_, _Bootstrap_, _jQuery_, _WebRTC_, _Webpack_, _Vite_, _Material UI_, _CSS_, _HTML_, _Bower_, _Babel_, _i18n_
 
-#### :point_right: &nbsp;Mobile Apps:
+#### 👉 &nbsp;Mobile Apps:
 
 _Flutter_, _React Native_, _Java (Android)_, _Firebase_, _App Store_, _Play Store_, _Android_, _iOS_, _Push Notification_
 
-#### :point_right: &nbsp;Databases:
+#### 👉 &nbsp;Databases:
 
 _MongoDB_, _MySQL_, _PostgreSQL_, _SQLite_, _Redis_, _Blockchain_
 
-#### :point_right: &nbsp;Tools:
+#### 👉 &nbsp;Tools:
 
 _Agile (Scrum)_, _Git_, _pnpm_, _Yarn_, _npm_, _ESLint_, _Figma_, _Canva_, _Slack_, _Postman_, _Grunt_, _Jupyter_, _Latex_, _VScode_, _Matlab_
 
-#### :point_right: &nbsp;CI/CD:
+#### 👉 &nbsp;CI/CD:
 
 _AWS_, _Heroku_, _Render_, _Jenkins_, _Nginx_, _Jira_, _Trello_, _Bitbucket_, _GitHub_, _Bash_, _SSH_, _K8s_
 
-#### :point_right: &nbsp;Environment:
+#### 👉 &nbsp;Environment:
 
 _Docker_, _Unix_
 
-#### :point_right: &nbsp;Testing:
+#### 👉 &nbsp;Testing:
 
 _Jest_, _Mocha_
 
