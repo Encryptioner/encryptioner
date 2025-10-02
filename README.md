@@ -4,18 +4,23 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://encryptioner.github.io/career-highlights/">
+    <img src="https://img.shields.io/badge/Career_Highlights-6A0DAD?style=for-the-badge&logo=star&logoColor=white" alt="Career Highlights"/>
+  </a>
+</p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mir-mursalin-ankur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://encryptioner.github.io">
-    <img src="https://img.shields.io/badge/Website-black?logo=GitHub&logoColor=white&style=for-the-badge" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=GitHub&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://x.com/AnkurMursalin">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-</div>
-
+</div>  
 
 <p align="center">
   <a href="https://encryptioner.github.io">
@@ -39,7 +44,7 @@
 
 I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
 
-- 🛠 I have 5+ years of industry expertise in _TypeScript_, _NodeJS_, _MongoDB_, _VueJS_, _TailwindCSS_, _Firebase_, _Flutter_, _Docker_ & _AWS_
+- 🛠 I have 6+ years of industry expertise in _TypeScript_, _NodeJS_, _MongoDB_, _VueJS_, _TailwindCSS_, _Firebase_, _Flutter_, _Docker_ & _AWS_
 - 🔭 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 500K+ users
 - 💪 Professionally, I lead on multiple projects to deliver premium solutions on time.
 - ✨ I am also enthusiastic practitioner of _DevOps_.
