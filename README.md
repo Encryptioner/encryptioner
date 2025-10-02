@@ -76,7 +76,7 @@ _MongoDB_, _MySQL_, _PostgreSQL_, _SQLite_, _Redis_, _Blockchain_
 
 #### 👉 &nbsp;Tools:
 
-_Agile (Scrum)_, _Git_, _pnpm_, _Yarn_, _npm_, _ESLint_, _Figma_, _Canva_, _Slack_, _Postman_, _Grunt_, _Jupyter_, _Latex_, _VScode_, _Matlab_
+_Shopify_, _Agile (Scrum)_, _Git_, _pnpm_, _Yarn_, _npm_, _ESLint_, _Figma_, _Canva_, _Slack_, _Postman_, _Grunt_, _Jupyter_, _Latex_, _VScode_, _Matlab_
 
 #### 👉 &nbsp;CI/CD:
 
