@@ -4,18 +4,18 @@
   </a>
 </p>
 
-<p align="center">
+<div id="websites" align="center">
   <a href="https://encryptioner.github.io/career-highlights/">
     <img src="https://img.shields.io/badge/Career_Highlights-6A0DAD?style=for-the-badge&logo=star&logoColor=white" alt="Career Highlights"/>
   </a>
-</p>
+  <a href="https://encryptioner.github.io">
+    <img src="https://img.shields.io/badge/My_Portfolio-06402B?logo=GitHub&logoColor=white&style=for-the-badge" alt="My Portfolio"/>
+  </a>
+</div>  
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mir-mursalin-ankur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://encryptioner.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=GitHub&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://x.com/AnkurMursalin">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
