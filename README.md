@@ -44,7 +44,7 @@
 
 I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Bangladesh.
 
-- 🛠 I have 6+ years of industry expertise in _TypeScript_, _NodeJS_, _MongoDB_, _VueJS_, _TailwindCSS_, _Firebase_, _Flutter_, _Docker_ & _AWS_
+- 🛠 I have 7+ years of industry expertise in _TypeScript_, _NodeJS_, _MongoDB_, _VueJS_, _TailwindCSS_, _Firebase_, _Flutter_, _Docker_ & _AWS_
 - 🔭 I deliver high-quality frontend, backend and deployment solutions for web and mobile applications. My work Impacts 500K+ users
 - 💪 Professionally, I lead on multiple projects to deliver premium solutions on time.
 - ✨ I am also enthusiastic practitioner of _DevOps_.
@@ -56,6 +56,32 @@ I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 
 ---
 
+### 🚀 &nbsp;Recent & Noteworthy Projects :
+
+#### Developer Tools & Libraries
+
+- 🖥️ **[browser-ide](https://github.com/Encryptioner/browser-ide)** — A full-featured VS Code alternative that runs entirely in your browser with AI capabilities &nbsp;[🔗 Live](https://encryptioner.github.io/browser-ide/)
+- 📄 **[html-to-pdf-generator](https://github.com/Encryptioner/html-to-pdf-generator)** — Framework-agnostic library for converting HTML to professional multi-page PDFs ⭐ 6 &nbsp;[📦 npm](https://www.npmjs.com/package/@encryptioner/html-to-pdf-generator)
+- 🐚 **[ccsh-shell](https://github.com/Encryptioner/ccsh-shell)** — A powerful Unix-like shell written in C with job control, aliases & interactive editing ⭐ 1
+- 📊 **[markdown-to-slide](https://github.com/Encryptioner/markdown-to-slide)** — Transforms Markdown into professional presentation slides &nbsp;[🔗 Live](https://encryptioner.github.io/markdown-to-slide/)
+
+#### AI & Privacy-First Apps
+
+- 🤖 **[private-chat](https://github.com/Encryptioner/private-chat)** — Run large language models entirely in your browser — no server, fully private &nbsp;[🔗 Live](https://encryptioner.github.io/private-chat/)
+- 🔐 **[de-encrypt-hub](https://github.com/Encryptioner/de-encrypt-hub)** — Browser-based encryption & decryption with algorithm explanations &nbsp;[🔗 Live](https://encryptioner.github.io/de-encrypt-hub/)
+
+#### Productivity & Utilities
+
+- ☁️ **[CloudNest](https://github.com/Encryptioner/CloudNest)** — Unified dashboard aggregating multiple Google Drive accounts into one pool — runs in-browser &nbsp;[🔗 Live](https://encryptioner.github.io/CloudNest/)
+- ✍️ **[linkedinify](https://github.com/Encryptioner/linkedinify)** — Transform Markdown into LinkedIn-ready posts. Privacy-first, AI-powered &nbsp;[🔗 Live](https://encryptioner.github.io/linkedinify/)
+- 🏢 **[building-management](https://github.com/Encryptioner/building-management)** — Apartment building management with service charge bills. Built with Astro, React & Tailwind &nbsp;[🔗 Live](https://encryptioner.github.io/building-management/)
+
+#### Fun & Learning
+
+- 🎲 **[fish-boat-ludu](https://github.com/Encryptioner/fish-boat-ludu)** — Modern twist of classic Snakes & Ladders &nbsp;[🔗 Live](https://encryptioner.github.io/fish-boat-ludu/)
+- 💻 **[coding-challenges](https://github.com/Encryptioner/coding-challenges)** — Practical coding challenges — recreating tools & systems from scratch &nbsp;[🔗 Live](https://encryptioner.github.io/coding-challenges/)
+
+---
 
 ### 🛠 &nbsp;Tech Stack :
 
@@ -65,11 +91,11 @@ _Typescript_, _JavaScript_, _C/C++_, _Python_, _Go_, _Dart_, _Java_, _PHP_
 
 #### 👉 &nbsp;Backend:
 
-_NodeJS_, _ExpressJS_, _WebSocket_, _Logger_, _NestJS_, _Tensorflow_, _Flask_, _Django_, _Laravel_
+_NodeJS_, _ExpressJS_, _WebSocket_, _Socket.IO_, _NestJS_, _OpenAI Realtime API_, _MCP Server_, _Flask_, _Django_, _Laravel_
 
 #### 👉 &nbsp;Frontend:
 
-_VueJS (2 & 3)_, _BackboneJS_, _React JS_, _Tailwind CSS_, _Vuetify_, _Bootstrap_, _jQuery_, _WebRTC_, _Webpack_, _Vite_, _Material UI_, _CSS_, _HTML_, _Bower_, _Babel_, _i18n_
+_VueJS (2 & 3)_, _React JS_, _Next.js_, _Tailwind CSS_, _Vuetify_, _BackboneJS_, _WebRTC_, _Vite_, _Webpack_, _Material UI_, _Bootstrap_, _i18n_, _CSS_, _HTML_
 
 #### 👉 &nbsp;Mobile Apps:
 
@@ -81,19 +107,19 @@ _MongoDB_, _MySQL_, _PostgreSQL_, _SQLite_, _Redis_, _Blockchain_
 
 #### 👉 &nbsp;Tools:
 
-_Shopify_, _Agile (Scrum)_, _Git_, _pnpm_, _Yarn_, _npm_, _ESLint_, _Figma_, _Canva_, _Slack_, _Postman_, _Grunt_, _Jupyter_, _Latex_, _VScode_, _Matlab_
+_Shopify_, _Agile (Scrum)_, _Git_, _pnpm Workspaces_, _Yarn_, _npm_, _ESLint_, _Figma_, _Postman_, _Claude Code_, _Slack_, _Canva_, _VScode_, _Jupyter_, _Latex_
 
 #### 👉 &nbsp;CI/CD:
 
-_AWS_, _Heroku_, _Render_, _Jenkins_, _Nginx_, _Jira_, _Trello_, _Bitbucket_, _GitHub_, _Bash_, _SSH_, _K8s_
+_AWS_, _Bitbucket Pipelines_, _PM2_, _Nginx_, _Docker_, _Jenkins_, _K8s_, _GitHub Actions_, _Heroku_, _Render_, _Jira_, _Trello_, _Bash_, _SSH_
 
 #### 👉 &nbsp;Environment:
 
-_Docker_, _Unix_
+_Docker_, _Unix_, _AWS S3/CloudFront_
 
 #### 👉 &nbsp;Testing:
 
-_Jest_, _Mocha_
+_Jest_, _Vitest_, _Mocha_, _Cypress_
 
 
 
@@ -107,4 +133,3 @@ _Jest_, _Mocha_
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=encryptioner&show_icons=true&theme=radical&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=encryptioner&theme=onedark)](https://github.com/encryptioner/github-profile-trophy)
