@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <p align="center">
   <a href="https://encryptioner.github.io">
     <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
@@ -134,5 +132,3 @@ _Jest_, _Vitest_, _Mocha_, _Cypress_
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=encryptioner&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=encryptioner&show_icons=true&theme=radical&count_private=true)
-
->>>>>>> dev/cv-1
