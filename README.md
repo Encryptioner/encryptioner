@@ -20,7 +20,7 @@
   <a href="https://x.com/AnkurMursalin">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="https://www.supportkori.com/encryptioner">
+  <a href="https://www.supportkori.com/mirmursalinankur">
     <img src="https://img.shields.io/badge/SupportKori-☕-FFDD00?style=for-the-badge" alt="SupportKori"/>
   </a>
 </div>
@@ -136,12 +136,12 @@ I build open-source tools and share knowledge freely. If you find my projects he
       <td align="center" width="50%">
         <h4>💝 Buy Me a Coffee</h4>
         <p>
-          <a href="https://www.supportkori.com/encryptioner">
+          <a href="https://www.supportkori.com/mirmursalinankur">
             <img src="./assets/mirmursalinankur-qrcode.png" width="150" alt="Support QR Code"/>
           </a>
         </p>
         <p>
-          Scan or <a href="https://www.supportkori.com/encryptioner">click here</a>
+          Scan or <a href="https://www.supportkori.com/mirmursalinankur">click here</a>
         </p>
       </td>
       <td align="center" width="50%">
@@ -165,14 +165,8 @@ I build open-source tools and share knowledge freely. If you find my projects he
 
 ### 🔥 &nbsp; My Stats :
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptioner&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptioner&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/Encryptioner)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=encryptioner&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=encryptioner&theme=dark&background=000000)](https://github.com/Encryptioner)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=encryptioner&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=encryptioner&show_icons=true&theme=radical&count_private=true)](https://github.com/Encryptioner)
