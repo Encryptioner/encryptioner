@@ -20,7 +20,10 @@
   <a href="https://x.com/AnkurMursalin">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-</div>  
+  <a href="https://www.supportkori.com/encryptioner">
+    <img src="https://img.shields.io/badge/SupportKori-☕-FFDD00?style=for-the-badge" alt="SupportKori"/>
+  </a>
+</div>
 
 <p align="center">
   <a href="https://encryptioner.github.io">
@@ -121,14 +124,55 @@ _Docker_, _Unix_, _AWS S3/CloudFront_
 
 _Jest_, _Vitest_, _Mocha_, _Cypress_
 
+---
 
+### ☕ &nbsp;Support My Work :
+
+I build open-source tools and share knowledge freely. If you find my projects helpful, consider supporting my work:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>💝 Buy Me a Coffee</h4>
+        <p>
+          <a href="https://www.supportkori.com/encryptioner">
+            <img src="./assets/mirmursalinankur-qrcode.png" width="150" alt="Support QR Code"/>
+          </a>
+        </p>
+        <p>
+          Scan or <a href="https://www.supportkori.com/encryptioner">click here</a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h4>💬 Connect & Discuss</h4>
+        <p>
+          <a href="https://www.linkedin.com/in/mir-mursalin-ankur">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+        </p>
+        <p>
+          <a href="https://x.com/AnkurMursalin">
+            <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptioner&layout=compact&theme=vision-friendly-dark)](https://github.com/encryptioner/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptioner&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=encryptioner&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=encryptioner&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=encryptioner&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=encryptioner&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
