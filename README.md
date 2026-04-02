@@ -170,7 +170,7 @@ I build open-source tools and share knowledge freely. If you find my projects he
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=encryptioner&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=encryptioner&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
