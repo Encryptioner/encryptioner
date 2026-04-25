@@ -64,6 +64,7 @@ I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 #### Developer Tools & Libraries
 
 - 🖥️ **[browser-ide](https://github.com/Encryptioner/browser-ide)** — A full-featured VS Code alternative that runs entirely in your browser with AI capabilities &nbsp;[🔗 Live](https://encryptioner.github.io/browser-ide/)
+- 🌿 **[branchdiff](https://www.npmjs.com/package/@encryptioner/branchdiff)** — Visual git diff in your browser — local, no cloud, no telemetry. AI review, file diff, GitHub & Bitbucket integration &nbsp;[📦 npm](https://www.npmjs.com/package/@encryptioner/branchdiff)
 - 📄 **[html-to-pdf-generator](https://github.com/Encryptioner/html-to-pdf-generator)** — Framework-agnostic library for converting HTML to professional multi-page PDFs ⭐ 6 &nbsp;[📦 npm](https://www.npmjs.com/package/@encryptioner/html-to-pdf-generator)
 - 🐚 **[ccsh-shell](https://github.com/Encryptioner/ccsh-shell)** — A powerful Unix-like shell written in C with job control, aliases & interactive editing ⭐ 1
 - 📊 **[markdown-to-slide](https://github.com/Encryptioner/markdown-to-slide)** — Transforms Markdown into professional presentation slides &nbsp;[🔗 Live](https://encryptioner.github.io/markdown-to-slide/)
