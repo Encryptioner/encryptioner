@@ -63,6 +63,7 @@ I am a _Lead Full-Stack Software Engineer_ <img src="https://media.giphy.com/med
 
 #### Developer Tools & Libraries
 
+- 🌐 **[Public Websites](https://github.com/Encryptioner/public-websites)** — Umbrella GitHub Pages hub: a directory of small web apps, an "Any Page" viewer for any public HTML URL, plus a showcase, blog & presentations &nbsp;[🔗 Live](https://encryptioner.github.io/public-websites/)
 - 🌿 **[branchdiff](https://github.com/Encryptioner/branchdiff-releases/)** — Visual git & file diff in your browser — with AI-supported code review & resolve, GitHub & Bitbucket sync, and persistent sessions. 100% local, no cloud, no telemetry &nbsp;[🔗 Live](https://encryptioner.github.io/branchdiff-releases/)
 - 🖥️ **[browser-ide](https://github.com/Encryptioner/browser-ide)** — A full-featured VS Code alternative that runs entirely in your browser with AI capabilities &nbsp;[🔗 Live](https://encryptioner.github.io/browser-ide/)
 - 📄 **[html-to-pdf-generator](https://github.com/Encryptioner/html-to-pdf-generator)** — Framework-agnostic library for converting HTML to professional multi-page PDFs ⭐ 6 &nbsp;[📦 npm](https://www.npmjs.com/package/@encryptioner/html-to-pdf-generator)
@@ -166,8 +167,4 @@ I build open-source tools and share knowledge freely. If you find my projects he
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encryptioner&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/Encryptioner)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=encryptioner&theme=dark&background=000000)](https://github.com/Encryptioner)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=encryptioner&show_icons=true&theme=radical&count_private=true)](https://github.com/Encryptioner)
